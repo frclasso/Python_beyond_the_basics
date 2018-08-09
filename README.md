@@ -1,1 +1,6 @@
-# Python_beyond_the_basics
+Python beyond the basics
+========================
+
+Mastering in Python: Object Oriented Programming by David Blaikie
+-----------------------------------------------------------------
+
